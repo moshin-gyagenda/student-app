@@ -1,5 +1,5 @@
 <nav>
-    <img src="{{ asset('images/logo.jfif') }}" alt="" />
+    <img src="images/logo.jfif" alt="" />
     <a href="#" id="registerLink">Register</a>
     <a href="#">Login</a>
     <a href="">Contact</a>

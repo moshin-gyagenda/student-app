@@ -1,8 +1,8 @@
 @extends('layouts.main')
 @section('content')
     <!-- Navigation bar -->
-    @include('layouts.nav')
 
+    @include('layouts.nav')
     <!-- banner section -->
     <div class="banner">
         <div class="welcome-message">
